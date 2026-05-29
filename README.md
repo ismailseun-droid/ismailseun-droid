@@ -18,7 +18,7 @@ Just getting started on GitHub, this is where I'll be sharing projects, models, 
 ![Excel VBA](https://img.shields.io/badge/Excel%20%26%20VBA-0A2A4A?style=flat&logoColor=79C0FF)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F2D1A?style=flat&logoColor=56D364)
 ![Tableau](https://img.shields.io/badge/Tableau-0F2D1A?style=flat&logoColor=56D364)
-![Oracle](https://img.shields.io/badge/Oracle%20GL-2A1B4A?style=flat&logoColor=D2A8FF)
+![Oracle](https://img.shields.io/badge/Oracle%20-2A1B4A?style=flat&logoColor=D2A8FF)
 ![FP&A](https://img.shields.io/badge/FP%26A-3A1E00?style=flat&logoColor=FFA657)
 ![AI Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-3A1E00?style=flat&logoColor=FFA657)
 
