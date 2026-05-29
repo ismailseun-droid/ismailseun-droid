@@ -9,8 +9,8 @@ Just getting started on GitHub, this is where I'll be sharing projects, models, 
 - Exploring AI-powered workflow automation for finance teams
 
 ### 💼 Background snapshot
-- **Fortune 500 REITs** — FP&A Manager
-- **Big 4** — CFO advisory & finance transformation
+- **Fortune 500 REITs** - FP&A Manager
+- **Big 4** - CFO advisory & Finance Transformation
 
 ### 🛠️ Tools I use
 ![Python](https://img.shields.io/badge/Python-0A2A4A?style=flat&logoColor=79C0FF)
