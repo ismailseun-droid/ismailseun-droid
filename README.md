@@ -5,7 +5,7 @@ Finance professional with FP&A and advisory experience, exploring how to build a
 Just getting started on GitHub, this is where I'll be sharing projects, models, and things I'm figuring out along the way. (finance models, automation tools, and analytics projects built from real-world problems)
 
 ### 🔭 What I'm currently working on
-- Finance & analytics projects to grow my public portfolio
+- Finance & analytics projects
 - Exploring AI-powered workflow automation for finance teams
 
 ### 💼 Background snapshot
@@ -18,7 +18,7 @@ Just getting started on GitHub, this is where I'll be sharing projects, models, 
 ![Excel VBA](https://img.shields.io/badge/Excel%20%26%20VBA-0A2A4A?style=flat&logoColor=79C0FF)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F2D1A?style=flat&logoColor=56D364)
 ![Tableau](https://img.shields.io/badge/Tableau-0F2D1A?style=flat&logoColor=56D364)
-![Oracle GL](https://img.shields.io/badge/Oracle%20GL-2A1B4A?style=flat&logoColor=D2A8FF)
+![Oracle](https://img.shields.io/badge/Oracle%20GL-2A1B4A?style=flat&logoColor=D2A8FF)
 ![FP&A](https://img.shields.io/badge/FP%26A-3A1E00?style=flat&logoColor=FFA657)
 ![AI Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-3A1E00?style=flat&logoColor=FFA657)
 
